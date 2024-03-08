@@ -1,5 +1,5 @@
 <h2>Hello 👋, I'm Steven Garberg</h2>
-<h3>I am a Senior Engineering Manager and Solutions Architect with a decade of industry experience.</h3>
+<h3>I am a Director of Engineering and Solutions Architect with a decade of industry experience.</h3>
 
 - 🌎 I'm based in Lakeland, Florida
 - 🔭 I’m currently working on games and billing centric SaaS products
