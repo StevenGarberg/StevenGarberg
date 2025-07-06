@@ -33,13 +33,3 @@
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=flat">
  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&style=flat">
 </div>
-
-<div align="center">
- <h3>Profile Stats</h3>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenGarberg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gruvbox&show_icons=true" alt="Evan's Github Stats">
-</div>
-
-<div align="center">
- <h3>Commit Stats</h3>
- <img src ="https://github-readme-streak-stats.herokuapp.com/?user=StevenGarberg&theme=gruvbox" alt="Extra Stats">
-</div>
